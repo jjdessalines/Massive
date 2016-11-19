@@ -1,2 +1,2 @@
 # Massive
-This is it
+This is going to be a very interesting project.
